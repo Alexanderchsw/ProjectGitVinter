@@ -45,6 +45,7 @@ public class MainActivity extends AppCompatActivity {
             //Осмысленный комментарий для Session1 1)
             //Осмысленный комментарий для Session1 2))
             //Осмысленный комментарий для Session2 1)
+            //Осмысленный комментарий для Session2 2))
         });
     }
 
