@@ -43,6 +43,7 @@ public class MainActivity extends AppCompatActivity {
                         .setAction("Action", null).show();
             }
             //Осмысленный комментарий для Session1 1)
+            //Осмысленный комментарий для Session1 2))
         });
     }
 
