@@ -42,6 +42,11 @@ public class MainActivity extends AppCompatActivity {
                 Snackbar.make(view, "Replace with your own action", Snackbar.LENGTH_LONG)
                         .setAction("Action", null).show();
             }
+            //Осмысленный комментарий для Session1 1)
+            //Осмысленный комментарий для Session1 2))
+            //Осмысленный комментарий для Session1 3)))
+            //Осмысленный комментарий для Session1 4))))
+            //Осмысленный комментарий для main 1)
         });
     }
 
